@@ -2,7 +2,7 @@
 Repo to hold the configuration related to springcloudconfig  demo
 
 
-Create a new Spring Boot application. Name the project "springCloudConfigServerDemo”, and use this value for the Artifact. Use Jar packaging and the latest versions of Java. Spring boot version will be taken automatically. Use "config server" while creating the project.
+Create a new Spring Boot application. Name the project "springCloudConfigServerDemo”, and use this value for the Artifact. Use Jar packaging and the latest versions of Java. Spring boot version will be taken automatically. Select "config server" option while creating the project.
 
 Edit the main Application class (probably named springCloudConfigServerDemo). Add the @EnableConfigServer to this class.
 
